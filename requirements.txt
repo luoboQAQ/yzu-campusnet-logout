@@ -1,0 +1,4 @@
+httpcore==0.16.3
+httpx==0.23.3
+loguru==0.6.0
+python-dotenv==1.0.0
